@@ -8,9 +8,8 @@
 ◔ O futuro é a tecnologia<br>
 ◑ Me aperfeiçoando cada dia um pouco mais com a programação <br>
 ◕ Cursando o segundo período de Análise e Desenvolvimento de Sistemas<br>
-⬤ Atualmente, estou estudando: <br>
-  - Introdução a Programação Estruturada em C,<br>
-  - Banco de Dados,<br>
+ - Python,<br> 
+ - Banco de Dados,<br>
   - Engenharia de Softwere,<br>
   - Sistemas Operacionais <br>
 <br>
