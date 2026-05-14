@@ -4,10 +4,10 @@
 
 <div>
  <img align="right" width=250px alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png">
-〇 Me chamo Gustavo Vinicius ✌ <br>
+〇 Me chamo Gustavo Vinicius <br>
 ◔ O futuro é a tecnologia<br>
 ◑ Me aperfeiçoando cada dia um pouco mais com a programação <br>
-◕ Cursando o segundo período de Análise e Desenvolvimento de Sistemas<br>
+◕ Cursando o sétimo período de Ciência da Computação <br>
  - Python,<br> 
  - Banco de Dados,<br>
   - Engenharia de Softwere,<br>
